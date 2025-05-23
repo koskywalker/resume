@@ -1,0 +1,12 @@
+{
+	"[markdown]": {
+		"editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+	},
+	"editor.formatOnSave": true,
+	"editor.wordWrap": "on",
+	"markdownlint.config": {
+		"default": true,
+		"MD024": false,
+		"MD033": false
+	}
+}
